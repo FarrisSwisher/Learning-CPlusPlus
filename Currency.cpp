@@ -1,6 +1,5 @@
 /*Course: CSCI 259, Section 2
   Student Name: Farris Fisher
-  Student ID:10548933
   Program 3 (Homework)
   DueDate: 03/05/19
   In keeping with the Honor Code of UM, I have neither
