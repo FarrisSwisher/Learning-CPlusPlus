@@ -1,6 +1,5 @@
 /* Course: CSCI 259, Section 2
  Student Name: Farris Fisher
- Student ID: 10548933
  Lab 1 in class
  Due Date: 02/05/19
 
