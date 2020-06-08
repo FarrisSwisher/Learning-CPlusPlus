@@ -1,6 +1,5 @@
 /* Course: CSCI 259, Section 2
  Student Name: Farris Fisher
- Student ID: 10548933
  Program 1 Homework
  Due Date: 02/12/19
 
