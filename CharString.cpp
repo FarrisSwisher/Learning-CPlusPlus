@@ -1,10 +1,10 @@
 /*Course: CSCI 259, Section 2
 Student Name: Farris Fisher
-Student ID:10548933
 Lab 5 in class
 DueDate: 4/16/19
 In keeping with the Honor Code of UM, I have neither
 given nor received assistance from anyone other than the instructor.
+
 Program Description: This program is designed to take in a string and an index
 from the user and then, if that index is valid to the string, return the
 character at that index. To do this it uses the function showChar which takes
